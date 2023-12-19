@@ -9,3 +9,4 @@ Just a text, here's the link: [CLICK ME]
 git init
 ```
 
+Additional text added
